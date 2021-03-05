@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\bin\Debug\netstandard2.0\Actividad1_3B.deps.json
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\bin\Debug\netstandard2.0\Actividad1_3B.dll
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\bin\Debug\netstandard2.0\ref\Actividad1_3B.dll
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\bin\Debug\netstandard2.0\Actividad1_3B.pdb
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\Actividad1_3B.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\Actividad1_3B.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\Actividad1_3B.AssemblyInfo.cs
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\Actividad1_3B.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\Actividad1_3B.dll
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\ref\Actividad1_3B.dll
+C:\Users\danie\source\repos\Actividad1_3B\Actividad1_3B\Actividad1_3B\obj\Debug\netstandard2.0\Actividad1_3B.pdb
